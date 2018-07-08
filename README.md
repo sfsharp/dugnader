@@ -2,6 +2,7 @@
 
 Organization of F# Dugnads / Hackathons
 
+* [Jul 14, 2018](dugnad-2018-07.md)
 * [Dec 7, 2017](dugnad-2017-12.md)
 
 A *Dugnad*? What is that? 
